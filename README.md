@@ -2,6 +2,8 @@
 
 Overlay UI for Next.js applications
 
+[Example](https://next-overlay-example.vercel.app/)
+
 ```jsx
 const { visible, raise, dismiss } = useOverlay()
 
